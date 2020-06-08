@@ -1,4 +1,4 @@
-package com.jbarath.javaee.jms;
+package com.bharath.javaee.jms;
 
 import javax.annotation.Resource;
 import javax.ejb.LocalBean;
